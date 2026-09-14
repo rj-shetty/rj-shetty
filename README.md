@@ -1,8 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-
-<br><br>     
-
-
 <h1 align="center">
         <samp>&gt; Hey There!, I am 🐱‍👤
                 <b><a target="_blank" href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
@@ -31,7 +26,11 @@ Currently, I'm focused on:
 ---
 
 ## 🧰 Tech Stack-->
+<table>
+<tr>
 
+<td valign="top" width="65%">
+        
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7)
@@ -77,6 +76,22 @@ Currently, I'm focused on:
 ![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=E0AF68)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7)
 ![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=E0AF68)
+
+</td>
+
+<td valign="middle" align="center" width="35%">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+  alt="Coding"
+  width="350"
+/>
+
+</td>
+
+</tr>
+</table>
+
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
