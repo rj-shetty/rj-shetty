@@ -166,13 +166,13 @@ Currently, I'm focused on:
      Docs: https://github.com/anuraghazra/github-readme-stats -->
  
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=darshanr27&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=darshanr27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ur-batman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur-batman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshanr27&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
