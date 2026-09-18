@@ -24,7 +24,7 @@ Currently, I'm focused on:
 - 🔨 Exploring ideas that could eventually become products/startups
 
 ---
-
+## 🧰 Tech Stack
 ## 🧰 Tech Stack-->
 <table>
 <tr>
