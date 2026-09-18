@@ -164,8 +164,13 @@ Currently, I'm focused on:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
- 
+ [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
 <p align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
+        
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=ur-batman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur-batman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
