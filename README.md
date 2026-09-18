@@ -1,3 +1,4 @@
+
 <h1 align="center">
         <samp>&gt; Hey There!, I am 🐱‍👤
                 <b><a target="_blank" href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
@@ -164,24 +165,28 @@ Currently, I'm focused on:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img
-    height="165"
+    width="420"
     src="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
   />
+  &nbsp;&nbsp;&nbsp;
   <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&langs_count=4&theme=aura"
+    width="300"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&layout=compact&langs_count=5&card_width=300&theme=aura"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=aura&animation=rgb"
+    width="735"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=tokyonight"
     alt="Profile Details"
   />
 </p>
+
 
 ---
 
