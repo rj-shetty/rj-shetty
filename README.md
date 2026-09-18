@@ -165,10 +165,13 @@ Currently, I'm focused on:
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ur-batman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura" />
+  </a>
 
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&langs_count=4&theme=aura" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=tokyonight" alt="Profile Details" />
