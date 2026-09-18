@@ -164,29 +164,24 @@ Currently, I'm focused on:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura">
-    <img
-      width="49%"
-      src="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
-    />
-  </a>
-
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&layout=compact&langs_count=6&card_width=350&theme=aura">
-    <img
-      width="49%"
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&layout=compact&langs_count=6&card_width=350&theme=aura"
-    />
-  </a>
+  <img
+    width="420"
+    src="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    width="300"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&layout=compact&langs_count=5&card_width=300&theme=aura"
+  />
 </p>
 
 <p align="center">
   <img
-    width="98%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=tokyonight"
+    width="735"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=aura&animation=rgb"
     alt="Profile Details"
   />
 </p>
