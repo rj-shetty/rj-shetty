@@ -1,9 +1,11 @@
+<div align="center">
+  <samp>&gt; Hey There!, I am 🐱‍👤
+    <b><a href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
+  </samp>
+</div>
 
-<h1 align="center">
-        <samp>&gt; Hey There!, I am 🐱‍👤
-                <b><a target="_blank" href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
-        </samp>
-</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
+     width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Process+Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI+in+the+loop;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5" alt="Typing SVG" />
