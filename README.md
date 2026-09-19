@@ -1,12 +1,12 @@
 <h1 align="center">
-  <samp>&gt; Hey There!, I am 🐱‍👤
+  <samp> Hey There!, I am 🐱‍👤
     <b><a href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
   </samp>
 </h1>
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=820&lines=Process+Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI+in+the+loop;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5&cursor=false"
-    alt="Current focus"
-  />
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=820&lines=%3E+Initializing+Matrix...;%3E+JavaScript+%7C+n8n+%7C+MongoDB;%3E+Building+Full-Stack+Systems;%3E+AI+%2B+Automation+%2B+Web;%3E+FastAPI+%2B+React+%2B+PostgreSQL;%3E+DSA.exe+%5BRUNNING%5D+%F0%9F%94%A5&cursor=false"
+alt="Matrix code"
+/>
 
 <!--## 👨‍💻 About Me
 
