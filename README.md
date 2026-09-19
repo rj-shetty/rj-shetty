@@ -1,3 +1,28 @@
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"
+    width="28"
+    alt="launch"
+  />
+  <samp>&gt; Featured Projects</samp>
+</p>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif"
+    width="28"
+    alt="rocket"
+  />
+  <samp><b>&gt; Featured Projects</b></samp>
+</p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=420&lines=%3E+Featured+Projects&cursor=false&repeat=false"
+    alt="Featured Projects"
+  />
+</p>
+<h2 align="center">
+  <samp>🚀 Featured Projects</samp>
+</h2>
 <h1 align="center">
   <samp>
     Hey There!, I am
