@@ -6,11 +6,13 @@
       width="42"
       alt="coding"
     />
-    <b>
-      <a href="https://ranjanshetty.dev/">
-        <font color="#BB9AF7">Ranjan Shetty</font>
-      </a>
-    </b>
+    <a href="https://ranjanshetty.dev/">
+      <img
+        src="https://raw.githubusercontent.com/ur-batman/ur-batman/main/assets/ranjan-name.svg"
+        height="32"
+        alt="Ranjan Shetty"
+      />
+    </a>
   </samp>
 </h1>
 <p align="center">
