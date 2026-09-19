@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="420"
+     height="50"
+     viewBox="0 0 420 50">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="matrixGreen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00FF41"/>
+      <stop offset="50%" stop-color="#39FF88"/>
+      <stop offset="100%" stop-color="#00FF41"/>
+    </linearGradient>
+  </defs>
+
+  <!-- subtle terminal scan -->
+  <rect width="420" height="50" fill="transparent"/>
+
+  <text x="210"
+        y="31"
+        text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="20"
+        font-weight="700"
+        fill="url(#matrixGreen)"
+        filter="url(#glow)">
+    &gt; Featured Projects
+  </text>
+
+  <!-- cursor -->
+  <rect x="365" y="14" width="10" height="20" fill="#00FF41">
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- subtle flicker -->
+  <text x="210"
+        y="31"
+        text-anchor="middle"
+        font-family="Fira Code, monospace"
+        font-size="20"
+        font-weight="700"
+        fill="#00FF41"
+        opacity="0">
+    &gt; Featured Projects
+    <animate
+      attributeName="opacity"
+      values="0;0;0.08;0;0.04;0"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </text>
+
+</svg>
