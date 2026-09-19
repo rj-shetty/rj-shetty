@@ -6,7 +6,11 @@
       width="42"
       alt="coding"
     />
-    <b><a href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
+    <b>
+      <a href="https://ranjanshetty.dev/">
+        <font color="#BB9AF7">Ranjan Shetty</font>
+      </a>
+    </b>
   </samp>
 </h1>
 <p align="center">
