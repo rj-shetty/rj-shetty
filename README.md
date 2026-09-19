@@ -3,14 +3,17 @@
     Hey There!, I am
     <img
       src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"
-      width="42"
+      width="34"
       alt="coding"
+      valign="middle"
     />
     <a href="https://ranjanshetty.dev/">
       <img
         src="https://raw.githubusercontent.com/ur-batman/ur-batman/main/assets/ranjan-name.svg"
-        height="32"
+        width="150"
+        height="27"
         alt="Ranjan Shetty"
+        valign="middle"
       />
     </a>
   </samp>
