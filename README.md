@@ -129,7 +129,7 @@ Currently, I'm focused on:
 ## 🚀 Projects - showcase-->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=420&lines=%3E+Featured+Projects&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=430&lines=%3E+Featured+Projects&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
     alt="Featured Projects"
   />
 </p>
@@ -178,21 +178,12 @@ Currently, I'm focused on:
 </table>
 
 ---
-
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=360&lines=%3E+GitHub+Stats&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=380&lines=%3E+GitHub+Stats&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
     alt="GitHub Stats"
   />
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
-     width="100%" />
 <p align="center">
   <img
     width="420"
@@ -216,13 +207,10 @@ Currently, I'm focused on:
 ---
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=480&lines=%3E+Contribution+Activity&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=490&lines=%3E+Contribution+Activity&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
     alt="Contribution Activity"
   />
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
-     width="100%" />
- 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake-dark.svg" />
@@ -234,7 +222,7 @@ Currently, I'm focused on:
 ---
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=400&lines=%3E+Connect+With+Me&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=410&lines=%3E+Connect+With+Me&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
     alt="Connect With Me"
   />
 </p>
