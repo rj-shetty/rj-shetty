@@ -29,7 +29,7 @@ Currently, I'm focused on:
 <table>
 <tr>
 
-<td valign="top" width="330%">
+<td valign="top" width="100%">
         
 ### Languages
 
@@ -84,7 +84,7 @@ Currently, I'm focused on:
 <img
   src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
   alt="Coding"
-  width="200"
+  width="300"
 />
 
 </td>
