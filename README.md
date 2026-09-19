@@ -1,5 +1,3 @@
-<div align="center">
-
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1&pause=999999&color=7AA2F7&center=true&vCenter=true&width=900&height=55&lines=%3E+Hey+There%21%2C+I+am+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4+Ranjan+Shetty&cursor=false"
     alt="> Hey There!, I am 🐱‍👤 Ranjan Shetty"
