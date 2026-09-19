@@ -129,8 +129,7 @@ Currently, I'm focused on:
 ## 🚀 Projects - showcase-->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ur-batman/ur-batman/main/assets/featured-projects.svg"
-    width="420"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=420&lines=%3E+Featured+Projects&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
     alt="Featured Projects"
   />
 </p>
@@ -186,10 +185,12 @@ Currently, I'm focused on:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
-  GitHub Stats
-  </samp>
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=360&lines=%3E+GitHub+Stats&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    alt="GitHub Stats"
+  />
+</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
      width="100%" />
 <p align="center">
@@ -213,10 +214,12 @@ Currently, I'm focused on:
 </p>
 
 ---
-<div align="center">
-  🐍 Contribution Snake
-</samp>
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=480&lines=%3E+Contribution+Activity&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    alt="Contribution Activity"
+  />
+</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
      width="100%" />
  
@@ -229,8 +232,12 @@ Currently, I'm focused on:
 </p>
 
 ---
-
-### 🤝 Connect With Me
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=120&pause=1200&color=00FF41&center=true&vCenter=true&width=400&lines=%3E+Connect+With+Me&cursor=true&cursorChar=%7C&cursorSpeed=350&repeat=true"
+    alt="Connect With Me"
+  />
+</p>
 <p align="center">
   <a href="https://www.ranjanshetty.dev"><img src="https://img.shields.io/badge/-Portfolio-1a1b27?style=for-the-badge&logo=todoist&logoColor=7AA2F7" /></a>
   <a href="https://www.linkedin.com/in/ranjanshetty/"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiM3QUEyRjciIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" /></a>
