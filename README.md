@@ -29,7 +29,7 @@ Currently, I'm focused on:
 <table>
 <tr>
 
-<td valign="top" width="100%">
+<td valign="top" width="330%">
         
 ### Languages
 
