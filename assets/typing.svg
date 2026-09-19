@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="42" viewBox="0 0 820 42">
+
+  <style>
+    text {
+      font-family: 'Fira Code', monospace;
+      font-size: 18px;
+      fill: #00FF41;
+    }
+  </style>
+
+  <!-- INITIALIZATION — SHOWS ONCE -->
+  <text x="50%" y="27" text-anchor="middle">
+    &gt; Initializing Full-Stack System...
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.08;0.85;1"
+      dur="3.5s"
+      begin="0s"
+      repeatCount="1"
+      fill="freeze"
+    />
+  </text>
+
+  <!-- LOOP -->
+  <g opacity="0">
+
+    <text x="50%" y="27" text-anchor="middle">
+      &gt; Process Automation | n8n | JavaScript | MongoDB
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.92;1"
+        dur="3s"
+        begin="3.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <text x="50%" y="27" text-anchor="middle">
+      &gt; Building Full-Stack Apps with AI in the loop
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.92;1"
+        dur="3s"
+        begin="6.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <text x="50%" y="27" text-anchor="middle">
+      &gt; FastAPI + React + PostgreSQL
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.92;1"
+        dur="3s"
+        begin="9.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <text x="50%" y="27" text-anchor="middle">
+      &gt; AI + Automation + Modern Web
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.92;1"
+        dur="3s"
+        begin="12.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+    <text x="50%" y="27" text-anchor="middle">
+      &gt; DSA.exe [RUNNING] 🔥
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        keyTimes="0;0.08;0.92;1"
+        dur="3s"
+        begin="15.5s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+  </g>
+</svg>
