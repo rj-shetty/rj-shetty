@@ -1,9 +1,14 @@
 <h1 align="center">
-  <samp> Hey There!, I am 🐱‍👤
+  <samp>
+    Hey There!, I am
+    <img
+      src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"
+      width="42"
+      alt="coding"
+    />
     <b><a href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
   </samp>
 </h1>
-<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&lines=%3E+Initializing+Full-Stack+System...;%3E+Process+Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;%3E+Building+Full-Stack+Apps+with+AI+in+the+loop;%3E+FastAPI+%2B+React+%2B+PostgreSQL;%3E+AI+%2B+Automation+%2B+Modern+Web;%3E+DSA.exe+%5BRUNNING%5D+%F0%9F%94%A5&cursor=false&repeat=false"
     alt="Full-Stack Developer"
