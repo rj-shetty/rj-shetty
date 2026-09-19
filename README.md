@@ -169,19 +169,19 @@ Currently, I'm focused on:
 <p align="center">
   <img
     width="420"
-    src="https://github-stats-extended.vercel.app/api?username=ur-batman&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
+    src="https://github-stats-extended.vercel.app/api?username=rj-shetty&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
   />
   &nbsp;&nbsp;&nbsp;
   <img
     width="300"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=ur-batman&layout=compact&langs_count=5&card_width=300&theme=aura"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=rj-shetty&layout=compact&langs_count=5&card_width=300&theme=aura"
   />
 </p>
 
 <p align="center">
   <img
     width="735"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ur-batman&theme=aura&animation=rgb"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rj-shetty&theme=aura&animation=rgb"
     alt="Profile Details"
   />
 </p>
