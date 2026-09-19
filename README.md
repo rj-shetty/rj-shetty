@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   <samp>&gt; Hey There!, I am 🐱‍👤
     <b><a href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
   </samp>
-</h2>
+</h1>
   <img
     src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=820&lines=Process+Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;Building+Full-Stack+Apps+with+AI+in+the+loop;FastAPI+%2B+React+%2B+PostgreSQL;Currently+grinding+DSA+%F0%9F%94%A5&cursor=false"
     alt="Current focus"
