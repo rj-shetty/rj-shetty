@@ -127,13 +127,13 @@ Currently, I'm focused on:
 
 
 ## 🚀 Projects - showcase-->
-<div align="center">
-  🚀 Featured Projects
-  </samp>
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
-     width="100%" />
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ur-batman/ur-batman/main/assets/featured-projects.svg"
+    width="420"
+    alt="Featured Projects"
+  />
+</p>
 <table>
   <tr>
     <td align="center" width="33%">
