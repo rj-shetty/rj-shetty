@@ -129,7 +129,7 @@ Currently, I'm focused on:
 ## 🚀 Projects - showcase-->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=430&lines=%3E+Featured+Projects&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Featured+Projects&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
     alt="Featured Projects"
   />
 </p>
@@ -180,7 +180,7 @@ Currently, I'm focused on:
 ---
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=380&lines=%3E+GitHub+Stats&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+GitHub+Stats&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
     alt="GitHub Stats"
   />
 </p>
@@ -207,7 +207,7 @@ Currently, I'm focused on:
 ---
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=490&lines=%3E+Contribution+Activity&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Contribution+Activity&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
     alt="Contribution Activity"
   />
 </p>
@@ -222,7 +222,7 @@ Currently, I'm focused on:
 ---
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=450&pause=2200&color=00FF41&center=true&vCenter=true&width=410&lines=%3E+Connect+With+Me&cursor=true&cursorChar=%7C&cursorSpeed=600&repeat=true"
+    src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Connect+With+Me&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
     alt="Connect With Me"
   />
 </p>
