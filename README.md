@@ -3,10 +3,12 @@
     <b><a href="https://ranjanshetty.dev/">Ranjan Shetty</a></b>
   </samp>
 </h1>
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+JavaScript+%7C+React;Building+Full-Stack+Apps+with+AI+in+the+loop;FastAPI+%2B+React+%2B+PostgreSQL;Process+Automation+%7C+n8n+%7C+MongoDB;AI+%2B+Automation+%2B+Modern+Web;DSA.exe+%5BRUNNING%5D+%F0%9F%94%A5&cursor=false"
-  alt="Full-Stack Developer"
-/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&lines=%3E+Initializing+Full-Stack+System...;%3E+Process+Automation+%7C+n8n+%7C+JavaScript+%7C+MongoDB;%3E+Building+Full-Stack+Apps+with+AI+in+the+loop;%3E+FastAPI+%2B+React+%2B+PostgreSQL;%3E+AI+%2B+Automation+%2B+Modern+Web;%3E+DSA.exe+%5BRUNNING%5D+%F0%9F%94%A5&cursor=false&repeat=false"
+    alt="Full-Stack Developer"
+  />
+</p>
 
 <!--## 👨‍💻 About Me
 
