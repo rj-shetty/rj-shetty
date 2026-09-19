@@ -27,7 +27,14 @@
 
 <!--## 👨‍💻 About Me
 
-I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, with a strong interest in **full-stack development, automation, and AI-powered products**.
+I'm a ## About Me
+```typescript
+const Ranjan = {
+  role: "Student",
+  focus: "Full Stack Development",
+  passion: "Contribute Open Source and build stuff"
+};
+```**B.Tech student specializing in Artificial Intelligence & Machine Learning**, with a strong interest in **full-stack development, automation, and AI-powered products**.
 
 I enjoy taking an idea from **concept → architecture → code → deployment** and building things that are actually useful.
 
