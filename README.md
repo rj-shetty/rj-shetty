@@ -15,6 +15,7 @@
     alt="Full-Stack Developer"
   />
 </p>
+
 <!--## 👨‍💻 About Me
 
 I'm a **B.Tech student specializing in Artificial Intelligence & Machine Learning**, with a strong interest in **full-stack development, automation, and AI-powered products**.
