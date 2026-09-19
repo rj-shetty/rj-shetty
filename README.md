@@ -29,7 +29,7 @@ Currently, I'm focused on:
 <table>
 <tr>
 
-<td valign="top" width="110%">
+<td valign="top" width="1100%">
         
 ### Languages
 
@@ -79,12 +79,12 @@ Currently, I'm focused on:
 
 </td>
 
-<td valign="middle" align="center" width="100%">
+<td valign="middle" align="center" width="1100%">
 
 <img
   src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
   alt="Coding"
-  width="300"
+  width="100"
 />
 
 </td>
