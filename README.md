@@ -78,6 +78,9 @@ Currently, I'm focused on:
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
 ![Express](https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
+![Express](https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
 ### Databases & Cloud
 
@@ -85,6 +88,11 @@ Currently, I'm focused on:
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ECE6A)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=E0AF68)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
+![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ECE6A)
+![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=E0AF68)
+
 
 ### AI / ML & Automation
 
@@ -93,9 +101,20 @@ Currently, I'm focused on:
 ![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7AA2F7)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=F7768E)
 ![n8n](https://img.shields.io/badge/n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=F7768E)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7)
+![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7DCFFF)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7AA2F7)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=F7768E)
+![n8n](https://img.shields.io/badge/n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=F7768E)
 
 ### Tools
 
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7DCFFF)
+![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=E0AF68)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7)
+![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=E0AF68)
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7DCFFF)
