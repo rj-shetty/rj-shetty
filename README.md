@@ -193,25 +193,38 @@ Currently, I'm focused on:
     alt="GitHub Stats"
   />
 </p>
-</p>
+
+<!-- GITHUB STATS -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img
+    width="355"
+    src="https://github-stats-extended.vercel.app/api?username=rj-shetty&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    width="355"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=rj-shetty&layout=compact&langs_count=5&card_width=300&theme=aura"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img
-    width="430"
-    src="https://github-stats-extended.vercel.app/api?username=rj-shetty&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    width="430"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=rj-shetty&layout=compact&langs_count=5&card_width=300&theme=aura"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg"
+      width="92%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
