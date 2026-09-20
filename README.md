@@ -154,9 +154,7 @@ Currently, I'm focused on:
 <a href="https://github.com/matheusconaga/docflow-ai">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fdocflow-ai&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fdocflow-ai.png&techs=FastAPI%2CPython%2CDocker&showStars=true&showForks=true)</a>
 <a href="https://github.com/matheusconaga/projeto-println">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true)</a>
 <a href="https://github.com/matheusconaga/projeto_patrimoniario">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true)</a>
-
 </div>
-</details>
 
 ---
 <p align="center">
