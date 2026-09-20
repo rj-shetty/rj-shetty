@@ -1,6 +1,3 @@
-<br>
-
-<a href="https://github.com/rj-shetty/DriveAcademyVR"><img src="assets/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="33%"></a> <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>  <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>
 <h1 align="center">
   <samp>
     Hey There!, I am
@@ -144,6 +141,9 @@ Currently, I'm focused on:
 
 ## 🚀 Projects - showcase-->
 <!-- FEATURED PROJECTS -->
+<br>
+
+<a href="https://github.com/rj-shetty/DriveAcademyVR"><img src="assets/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="33%"></a> <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>  <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>
 <p align="center">
   <img
     src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Featured+Projects&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
