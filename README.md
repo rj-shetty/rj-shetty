@@ -212,14 +212,14 @@ Currently, I'm focused on:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/rj-shetty/assets/github-user-contribution.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/rj-shetty/assets/github-user-contribution.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/darshanr27/darshanr27/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/rj-shetty/assets/github-user-contribution.svg"
       width="92%"
       alt="GitHub Contribution Snake"
     />
