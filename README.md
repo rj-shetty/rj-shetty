@@ -9,7 +9,7 @@
     />
     <a href="https://ranjanshetty.dev/">
       <img
-        src="https://raw.githubusercontent.com/ur-batman/ur-batman/main/assets/ranjan-name.svg"
+        src="https://raw.githubusercontent.com/rj-shetty/rj-shetty/main/assets/ranjan-name.svg"
         width="150"
         height="27"
         alt="Ranjan Shetty"
@@ -212,14 +212,14 @@ Currently, I'm focused on:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rj-shetty/assets/github-user-contribution.svg"
+      srcset="https://raw.githubusercontent.com/rj-shetty/rj-shetty/main/assets/github-user-contribution.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rj-shetty/assets/github-user-contribution.svg"
+      srcset="https://raw.githubusercontent.com/rj-shetty/rj-shetty/main/assets/github-user-contribution.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/rj-shetty/assets/github-user-contribution.svg"
+      src="https://raw.githubusercontent.com/rj-shetty/rj-shetty/main/assets/github-user-contribution.svg"
       width="92%"
       alt="GitHub Contribution Snake"
     />
