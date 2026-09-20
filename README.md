@@ -142,9 +142,23 @@ Currently, I'm focused on:
   />
 </p>
 
+<div align="center">
+
+<a href="https://github.com/matheusconaga/github-project-cards">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fgithub-project-cards&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fgithub-project-cards%2Fmain%2Fpublic%2Fproject-card-deploy.png&techs=Next%2CReact%2CTypescript&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/docflow-ai">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fdocflow-ai&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fdocflow-ai.png&techs=FastAPI%2CPython%2CDocker&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto-println">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto_patrimoniario">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true)</a>
+
+</div>
+</details>
 
 
 
+
+
+<details> 
+  <summary><h2>🛠️ Tech Stack</h2></summary>
+  
 <table align="center" width="100%">
 <tr>
 <td align="center" valign="top" width="33.33%">
@@ -317,21 +331,6 @@ Currently, I'm focused on:
     src="https://github-stats-extended.vercel.app/api/top-langs?username=rj-shetty&layout=compact&langs_count=5&card_width=300&theme=aura"
   />
 </p>
-
-<p align="center">
-  <img
-    width="735"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rj-shetty&theme=aura&animation=rgb"
-    alt="Profile Details"
-  />
-</p>
-
----
-<p align="center">
-  <img
-    src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Contribution+Activity&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
-    alt="Contribution Activity"
-  />
 </p>
 <p align="center">
   <picture>
