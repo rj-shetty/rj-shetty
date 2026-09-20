@@ -141,9 +141,6 @@ Currently, I'm focused on:
 
 ## 🚀 Projects - showcase-->
 <!-- FEATURED PROJECTS -->
-<br>
-
-<a href="https://github.com/rj-shetty/DriveAcademyVR"><img src="assets/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="33%"></a> <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>  <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>
 <p align="center">
   <img
     src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Featured+Projects&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
@@ -151,12 +148,14 @@ Currently, I'm focused on:
   />
 </p>
 
+<a href="https://github.com/rj-shetty/DriveAcademyVR"><img src="assets/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="33%"></a> <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>  <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>
+
 <div align="center">
 
-<a href="https://github.com/matheusconaga/github-project-cards">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fgithub-project-cards&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fgithub-project-cards%2Fmain%2Fpublic%2Fproject-card-deploy.png&techs=Next%2CReact%2CTypescript&showStars=true&showForks=true)</a>
-<a href="https://github.com/matheusconaga/docflow-ai">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fdocflow-ai&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fdocflow-ai.png&techs=FastAPI%2CPython%2CDocker&showStars=true&showForks=true)</a>
-<a href="https://github.com/matheusconaga/projeto-println">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true)</a>
-<a href="https://github.com/matheusconaga/projeto_patrimoniario">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/github-project-cards" width="33%">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fgithub-project-cards&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fgithub-project-cards%2Fmain%2Fpublic%2Fproject-card-deploy.png&techs=Next%2CReact%2CTypescript&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/docflow-ai" width="33%">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fdocflow-ai&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fdocflow-ai.png&techs=FastAPI%2CPython%2CDocker&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto-println" width="33%">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true)</a>
+<a href="https://github.com/matheusconaga/projeto_patrimoniario" width="33%">![Project Card](https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true)</a>
 </div>
 
 ---
