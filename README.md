@@ -1,4 +1,4 @@
-<img width="1322" height="593" alt="image" src="https://github.com/user-attachments/assets/4c091ffc-406a-48ab-ad0f-b29cb0ff1f80" /><h1 align="center">
+<h1 align="center">
   <samp>
     Hey There!, I am
     <img
