@@ -48,7 +48,6 @@ Currently, I'm focused on:
 - 🔨 Exploring ideas that could eventually become products/startups
 
 ---
-## 🧰 Tech Stack
 ## 🧰 Tech Stack-->
 <img
   src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
@@ -56,8 +55,7 @@ Currently, I'm focused on:
   width="279"
   align="right"
 />
-<!--🧰 Tech Stack-->
-
+<br><br>
 ### Languages
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
