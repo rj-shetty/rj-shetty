@@ -56,8 +56,8 @@ Currently, I'm focused on:
   width="279"
   align="right"
 />
-## 🧰 Tech Stack
-<!--Languages-->
+<!--🧰 Tech Stack-->
+###Languages
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7AA2F7)
