@@ -1,39 +1,4 @@
-<div align="center">
-
-<a href="https://github.com/matheusconaga/github-project-cards">
-  <img
-    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fgithub-project-cards&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fgithub-project-cards%2Fmain%2Fpublic%2Fproject-card-deploy.png&techs=Next%2CReact%2CTypescript&showStars=true&showForks=true"
-    width="390"
-    alt="Project Card"
-  />
-</a>
-
-<a href="https://github.com/matheusconaga/docflow-ai">
-  <img
-    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fdocflow-ai&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fdocflow-ai.png&techs=FastAPI%2CPython%2CDocker&showStars=true&showForks=true"
-    width="390"
-    alt="Project Card"
-  />
-</a>
-
-<a href="https://github.com/matheusconaga/projeto-println">
-  <img
-    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true"
-    width="390"
-    alt="Project Card"
-  />
-</a>
-
-<a href="https://github.com/matheusconaga/projeto_patrimoniario">
-  <img
-    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true"
-    width="390"
-    alt="Project Card"
-  />
-</a>
-
-</div>
-<h1 align="center">
+<img width="1322" height="593" alt="image" src="https://github.com/user-attachments/assets/4c091ffc-406a-48ab-ad0f-b29cb0ff1f80" /><h1 align="center">
   <samp>
     Hey There!, I am
     <img
@@ -182,7 +147,41 @@ Currently, I'm focused on:
     alt="Featured Projects"
   />
 </p>
+<div align="center">
 
+<a href="https://github.com/matheusconaga/github-project-cards">
+  <img
+    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fgithub-project-cards&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fgithub-project-cards%2Fmain%2Fpublic%2Fproject-card-deploy.png&techs=Next%2CReact%2CTypescript&showStars=true&showForks=true"
+    width="420"
+    alt="Project Card"
+  />
+</a>
+
+<a href="https://github.com/matheusconaga/docflow-ai">
+  <img
+    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fdocflow-ai&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fdocflow-ai.png&techs=FastAPI%2CPython%2CDocker&showStars=true&showForks=true"
+    width="420"
+    alt="Project Card"
+  />
+</a>
+
+<a href="https://github.com/matheusconaga/projeto-println">
+  <img
+    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto-println&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fprintln.png&techs=Flutter%2CFastAPI%2CPostgresql&showStars=true&showForks=true"
+    width="420"
+    alt="Project Card"
+  />
+</a>
+
+<a href="https://github.com/matheusconaga/projeto_patrimoniario">
+  <img
+    src="https://github-project-cards.vercel.app/api/project-card?repo=matheusconaga%2Fprojeto_patrimoniario&lang=en&theme=dark&image=https%3A%2F%2Fraw.githubusercontent.com%2Fmatheusconaga%2Fmatheusconaga%2Fmain%2Fassets%2Fpatrimoniario.png&techs=React%2CTypeScript%2CFirebase&showStars=true&showForks=true"
+    width="420"
+    alt="Project Card"
+  />
+</a>
+
+</div>
 <a href="https://github.com/rj-shetty/DriveAcademyVR"><img src="assets/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="33%"></a> <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>  <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>
 
 <div align="center">
