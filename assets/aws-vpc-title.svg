@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="175" height="27" viewBox="0 0 175 27">
-  <text
-    x="87.5"
-    y="20"
-    text-anchor="middle"
-    font-family="Fira Code, monospace"
-    font-size="18"
-    font-weight="700"
-    fill="#BB9AF7"
-  >Secure AWS VPC</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 50">
+  <defs>
+    <linearGradient id="cicdGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7AA2F7"/>
+      <stop offset="55%" stop-color="#7DCFFF"/>
+      <stop offset="100%" stop-color="#BB9AF7"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="336" height="46" rx="12" fill="#1a1b27"/>
+  <text x="170" y="33" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="0.5" fill="url(#cicdGrad)">Cloud CI/CD Pipeline</text>
 </svg>
