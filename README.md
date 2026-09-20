@@ -134,12 +134,65 @@ Currently, I'm focused on:
 
 
 ## 🚀 Projects - showcase-->
+<!-- FEATURED PROJECTS -->
 <p align="center">
   <img
     src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E+Featured+Projects&animation=typing&color=00FF41&size=18&duration=4500&pause=2200&center=true&vCenter=true&width=430&height=45&repeat=true"
     alt="Featured Projects"
   />
 </p>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="33.33%">
+<a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
+<img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg" width="220" height="125" alt="DeepSeek AI Project" />
+</a>
+<br><br>
+<samp><b>01 · DeepSeek AI Chatbot</b></samp>
+<br><br>
+<sub>LLM-powered chatbot that answers domain-specific questions in real time.</sub>
+<br><br>
+<a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md"><samp>↗ View Project</samp></a>
+<br><br>
+<img src="https://img.shields.io/badge/AI-1A1B27?style=flat-square&logoColor=BB9AF7" alt="AI" />
+<img src="https://img.shields.io/badge/LLM-1A1B27?style=flat-square&logoColor=BB9AF7" alt="LLM" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-1A1B27?style=flat-square&color=BB9AF7" alt="Prompt Engineering" />
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+<img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png" width="220" height="125" alt="CI/CD Pipeline Project" />
+</a>
+<br><br>
+<samp><b>02 · Cloud CI/CD Pipeline</b></samp>
+<br><br>
+<sub>Automated deployment of a web app using GitHub Actions and AWS ECS.</sub>
+<br><br>
+<a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md"><samp>↗ View Project</samp></a>
+<br><br>
+<img src="https://img.shields.io/badge/AWS-1A1B27?style=flat-square&logoColor=BB9AF7" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-1A1B27?style=flat-square&logoColor=BB9AF7" alt="Docker" />
+<img src="https://img.shields.io/badge/CI%2FCD-1A1B27?style=flat-square&color=BB9AF7" alt="CI/CD" />
+</td>
+
+<td align="center" valign="top" width="33.33%">
+<a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
+<img src="https://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/aws-networks-vpc_2facf927" width="220" height="125" alt="VPC Networking Project" />
+</a>
+<br><br>
+<samp><b>03 · Secure AWS VPC</b></samp>
+<br><br>
+<sub>Designed and deployed a custom VPC with public/private subnets and routing.</sub>
+<br><br>
+<a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md"><samp>↗ View Project</samp></a>
+<br><br>
+<img src="https://img.shields.io/badge/AWS-1A1B27?style=flat-square&logoColor=BB9AF7" alt="AWS" />
+<img src="https://img.shields.io/badge/Networking-1A1B27?style=flat-square&color=BB9AF7" alt="Networking" />
+<img src="https://img.shields.io/badge/Security-1A1B27?style=flat-square&color=BB9AF7" alt="Security" />
+</td>
+</tr>
+</table>
 <table>
   <tr>
     <td align="center" width="33%">
