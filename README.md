@@ -1,3 +1,6 @@
+<br>
+
+<a href="https://github.com/SalvatoreGiugliano98/DriveAcademyVR"><img src="project-cards/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="32%"></a> <a href="https://github.com/SalvatoreGiugliano98/Computer-Graphics"><img src="project-cards/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="32%"></a>
 <h1 align="center">
   <samp>
     Hey There!, I am
