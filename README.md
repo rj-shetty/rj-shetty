@@ -150,6 +150,8 @@ Currently, I'm focused on:
 
 <a href="https://github.com/rj-shetty/DriveAcademyVR"><img src="assets/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="33%"></a> <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>  <a href="https://github.com/rj-shetty/Computer-Graphics"><img src="assets/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="33%"></a>
 
+
+<!--
 <div align="center">
 
 <a href="https://github.com/matheusconaga/github-project-cards">
@@ -183,8 +185,7 @@ Currently, I'm focused on:
     alt="Project Card"
   />
 </a>
-
-</div>
+</div> -->
 
 ---
 <p align="center">
