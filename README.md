@@ -57,6 +57,7 @@ Currently, I'm focused on:
 />
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7AA2F7)
@@ -68,23 +69,27 @@ Currently, I'm focused on:
 ![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7AA2F7)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=F7768E)
-![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7DCFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7DCFFF)
 
-### Backend
+### Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=9ECE6A)
 ![Express](https://img.shields.io/badge/Express-1a1b27?style=for-the-badge&logo=express&logoColor=FFFFFF)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
+![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=swagger&logoColor=7DCFFF)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a1b27?style=for-the-badge&logo=graphql&logoColor=E0AF68)
+![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-1a1b27?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
 
 ### Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
+![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7DCFFF)
+![Redis](https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=F7768E)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ECE6A)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=E0AF68)
-
+![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 ### AI / ML & Automation
 
@@ -92,19 +97,19 @@ Currently, I'm focused on:
 ![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7DCFFF)
 ![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7AA2F7)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=F7768E)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=9ECE6A)
 ![n8n](https://img.shields.io/badge/n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=F7768E)
 
-
-### Tools
+### DevOps, Testing & Tools
 
 ![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F7768E)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7DCFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=7AA2F7)
 ![Linux](https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=E0AF68)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7)
+![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jest](https://img.shields.io/badge/Jest-1a1b27?style=for-the-badge&logo=jest&logoColor=F7768E)
 ![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=E0AF68)
-
-
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
