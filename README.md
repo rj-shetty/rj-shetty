@@ -186,14 +186,16 @@ Currently, I'm focused on:
 <!-- GITHUB STATS -->
 <p align="center">
   <img
-    height="180"
+    width="335"
+    height="160"
     src="https://github-stats-extended.vercel.app/api?username=rj-shetty&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=aura"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=rj-shetty&layout=compact&langs_count=5&card_width=300&theme=aura"
+    width="285"
+    height="160"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=rj-shetty&layout=compact&langs_count=5&card_width=270&theme=aura"
     alt="Most Used Languages"
   />
 </p>
